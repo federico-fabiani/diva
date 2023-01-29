@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Secrets
+src/resources/diva-assistant-google-account.json
+src/resources/config/telegram_token.yaml
